@@ -1,5 +1,4 @@
-# campingcar-rental-manager
-# Camping Car Rental System
+# Camping Car Rental Manager
 
 A Java Swing GUI application backed by a MySQL relational database, for managing a camping‐car rental service with separate **Administrator** and **Member** modes.
 
