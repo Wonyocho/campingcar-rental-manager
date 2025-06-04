@@ -18,7 +18,7 @@ This system allows:
 
 ### Administrator
 - **Database Initialization**  
-  - Runs `202501-⟨학번⟩-ini.sql` to drop, recreate all tables and insert ≥12 sample rows each.
+  - Runs `init.sql` to drop, recreate all tables and insert ≥12 sample rows each.
 - **Full CRUD**  
   - Insert / Delete (by arbitrary condition) / Update on any table via GUI forms.
 - **View All Tables**  
